@@ -5,7 +5,8 @@ function select(querySelectorAll){
 }
 
 let businessName = 'Super Pizza Place';
-let address = '215 - 123 henlowbay';
+let address = '235 - 123 henlowbay';
+let phoneNumber = '(123)333-3333';
 
 function login() {
     // GEt user's email and password
