@@ -4,6 +4,7 @@ function select(querySelectorAll){
     return;
 }
 
+
 let businessName = 'Super Pizza Place';
 let address = '235 - 123 henlowbay';
 let phoneNumber = '(123)333-3333';
